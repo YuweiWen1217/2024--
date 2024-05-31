@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714229646 source:e:\sb²¢ÐÐ\lab3\openmp\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+
