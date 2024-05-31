@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1714194256 source:e:\sb²¢ÐÐ\lab3\pthread\main.cpp
+	<iostream>
+	<stdio.h>
+	<typeinfo>
+	<stdlib.h>
+	<semaphore.h>
+	<pthread.h>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<windows.h>
+
